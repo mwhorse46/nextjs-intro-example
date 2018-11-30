@@ -1,0 +1,440 @@
+{
+  "./noop": [
+    {
+      "id": "./node_modules/next/dist/client/noop.js",
+      "name": "./node_modules/next/dist/client/noop.js",
+      "file": "static/chunks/0.js",
+      "publicPath": "static/chunks/0.js"
+    }
+  ],
+  "@babel/runtime-corejs2/core-js/json/stringify": [
+    {
+      "id": "./node_modules/@babel/runtime-corejs2/core-js/json/stringify.js",
+      "name": "./node_modules/@babel/runtime-corejs2/core-js/json/stringify.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "../core-js/reflect/construct": [
+    {
+      "id": "./node_modules/@babel/runtime-corejs2/core-js/reflect/construct.js",
+      "name": "./node_modules/@babel/runtime-corejs2/core-js/reflect/construct.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "@babel/runtime-corejs2/core-js/set": [
+    {
+      "id": "./node_modules/@babel/runtime-corejs2/core-js/set.js",
+      "name": "./node_modules/@babel/runtime-corejs2/core-js/set.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./arrayWithHoles": [
+    {
+      "id": "./node_modules/@babel/runtime-corejs2/helpers/arrayWithHoles.js",
+      "name": "./node_modules/@babel/runtime-corejs2/helpers/arrayWithHoles.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "@babel/runtime-corejs2/helpers/asyncToGenerator": [
+    {
+      "id": "./node_modules/@babel/runtime-corejs2/helpers/asyncToGenerator.js",
+      "name": "./node_modules/@babel/runtime-corejs2/helpers/asyncToGenerator.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "@babel/runtime-corejs2/helpers/construct": [
+    {
+      "id": "./node_modules/@babel/runtime-corejs2/helpers/construct.js",
+      "name": "./node_modules/@babel/runtime-corejs2/helpers/construct.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "@babel/runtime-corejs2/helpers/interopRequireWildcard": [
+    {
+      "id": "./node_modules/@babel/runtime-corejs2/helpers/interopRequireWildcard.js",
+      "name": "./node_modules/@babel/runtime-corejs2/helpers/interopRequireWildcard.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./iterableToArrayLimit": [
+    {
+      "id": "./node_modules/@babel/runtime-corejs2/helpers/iterableToArrayLimit.js",
+      "name": "./node_modules/@babel/runtime-corejs2/helpers/iterableToArrayLimit.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./nonIterableRest": [
+    {
+      "id": "./node_modules/@babel/runtime-corejs2/helpers/nonIterableRest.js",
+      "name": "./node_modules/@babel/runtime-corejs2/helpers/nonIterableRest.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "@babel/runtime-corejs2/helpers/slicedToArray": [
+    {
+      "id": "./node_modules/@babel/runtime-corejs2/helpers/slicedToArray.js",
+      "name": "./node_modules/@babel/runtime-corejs2/helpers/slicedToArray.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "@babel/runtime-corejs2/regenerator": [
+    {
+      "id": "./node_modules/@babel/runtime-corejs2/regenerator/index.js",
+      "name": "./node_modules/@babel/runtime-corejs2/regenerator/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "core-js/library/fn/json/stringify": [
+    {
+      "id": "./node_modules/core-js/library/fn/json/stringify.js",
+      "name": "./node_modules/core-js/library/fn/json/stringify.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "core-js/library/fn/reflect/construct": [
+    {
+      "id": "./node_modules/core-js/library/fn/reflect/construct.js",
+      "name": "./node_modules/core-js/library/fn/reflect/construct.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "core-js/library/fn/set": [
+    {
+      "id": "./node_modules/core-js/library/fn/set.js",
+      "name": "./node_modules/core-js/library/fn/set.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./_bind": [
+    {
+      "id": "./node_modules/core-js/library/modules/_bind.js",
+      "name": "./node_modules/core-js/library/modules/_bind.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "../../modules/es6.reflect.construct": [
+    {
+      "id": "./node_modules/core-js/library/modules/es6.reflect.construct.js",
+      "name": "./node_modules/core-js/library/modules/es6.reflect.construct.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "../modules/es6.set": [
+    {
+      "id": "./node_modules/core-js/library/modules/es6.set.js",
+      "name": "./node_modules/core-js/library/modules/es6.set.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "../modules/es7.set.from": [
+    {
+      "id": "./node_modules/core-js/library/modules/es7.set.from.js",
+      "name": "./node_modules/core-js/library/modules/es7.set.from.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "../modules/es7.set.of": [
+    {
+      "id": "./node_modules/core-js/library/modules/es7.set.of.js",
+      "name": "./node_modules/core-js/library/modules/es7.set.of.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "../modules/es7.set.to-json": [
+    {
+      "id": "./node_modules/core-js/library/modules/es7.set.to-json.js",
+      "name": "./node_modules/core-js/library/modules/es7.set.to-json.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "define-properties": [
+    {
+      "id": "./node_modules/define-properties/index.js",
+      "name": "./node_modules/define-properties/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./implementation": [
+    {
+      "id": "./node_modules/function-bind/implementation.js",
+      "name": "./node_modules/function-bind/implementation.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/object.assign/implementation.js",
+      "name": "./node_modules/object.assign/implementation.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "function-bind": [
+    {
+      "id": "./node_modules/function-bind/index.js",
+      "name": "./node_modules/function-bind/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "has-symbols/shams": [
+    {
+      "id": "./node_modules/has-symbols/shams.js",
+      "name": "./node_modules/has-symbols/shams.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "has": [
+    {
+      "id": "./node_modules/has/src/index.js",
+      "name": "./node_modules/has/src/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "hoist-non-react-statics": [
+    {
+      "id": "./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js",
+      "name": "./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "../lib/EventEmitter": [
+    {
+      "id": "./node_modules/next/dist/lib/EventEmitter.js",
+      "name": "./node_modules/next/dist/lib/EventEmitter.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./dist/lib/link": [
+    {
+      "id": "./node_modules/next/dist/lib/link.js",
+      "name": "./node_modules/next/dist/lib/link.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "../p-queue": [
+    {
+      "id": "./node_modules/next/dist/lib/p-queue.js",
+      "name": "./node_modules/next/dist/lib/p-queue.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "../lib/router": [
+    {
+      "id": "./node_modules/next/dist/lib/router/index.js",
+      "name": "./node_modules/next/dist/lib/router/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./router": [
+    {
+      "id": "./node_modules/next/dist/lib/router/router.js",
+      "name": "./node_modules/next/dist/lib/router/router.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./with-router": [
+    {
+      "id": "./node_modules/next/dist/lib/router/with-router.js",
+      "name": "./node_modules/next/dist/lib/router/with-router.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "../shallow-equals": [
+    {
+      "id": "./node_modules/next/dist/lib/shallow-equals.js",
+      "name": "./node_modules/next/dist/lib/shallow-equals.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "../lib/utils": [
+    {
+      "id": "./node_modules/next/dist/lib/utils.js",
+      "name": "./node_modules/next/dist/lib/utils.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "next/link": [
+    {
+      "id": "./node_modules/next/link.js",
+      "name": "./node_modules/next/link.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "punycode": [
+    {
+      "id": "./node_modules/node-libs-browser/node_modules/punycode/punycode.js",
+      "name": "./node_modules/node-libs-browser/node_modules/punycode/punycode.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "object-keys": [
+    {
+      "id": "./node_modules/object-keys/index.js",
+      "name": "./node_modules/object-keys/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./isArguments": [
+    {
+      "id": "./node_modules/object-keys/isArguments.js",
+      "name": "./node_modules/object-keys/isArguments.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "object.assign": [
+    {
+      "id": "./node_modules/object.assign/index.js",
+      "name": "./node_modules/object.assign/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./polyfill": [
+    {
+      "id": "./node_modules/object.assign/polyfill.js",
+      "name": "./node_modules/object.assign/polyfill.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./shim": [
+    {
+      "id": "./node_modules/object.assign/shim.js",
+      "name": "./node_modules/object.assign/shim.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./helpers/isPlainObject": [
+    {
+      "id": "./node_modules/prop-types-exact/build/helpers/isPlainObject.js",
+      "name": "./node_modules/prop-types-exact/build/helpers/isPlainObject.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "prop-types-exact": [
+    {
+      "id": "./node_modules/prop-types-exact/build/index.js",
+      "name": "./node_modules/prop-types-exact/build/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./decode": [
+    {
+      "id": "./node_modules/querystring-es3/decode.js",
+      "name": "./node_modules/querystring-es3/decode.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./encode": [
+    {
+      "id": "./node_modules/querystring-es3/encode.js",
+      "name": "./node_modules/querystring-es3/encode.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "querystring": [
+    {
+      "id": "./node_modules/querystring-es3/index.js",
+      "name": "./node_modules/querystring-es3/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "regenerator-runtime": [
+    {
+      "id": "./node_modules/regenerator-runtime/runtime-module.js",
+      "name": "./node_modules/regenerator-runtime/runtime-module.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./runtime": [
+    {
+      "id": "./node_modules/regenerator-runtime/runtime.js",
+      "name": "./node_modules/regenerator-runtime/runtime.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "url": [
+    {
+      "id": "./node_modules/url/url.js",
+      "name": "./node_modules/url/url.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./util": [
+    {
+      "id": "./node_modules/url/util.js",
+      "name": "./node_modules/url/util.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./../../../webpack/buildin/global.js": [
+    {
+      "id": "./node_modules/webpack/buildin/global.js",
+      "name": "./node_modules/webpack/buildin/global.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./../../../webpack/buildin/module.js": [
+    {
+      "id": "./node_modules/webpack/buildin/module.js",
+      "name": "./node_modules/webpack/buildin/module.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./home": [
+    {
+      "id": "./pages/home.js",
+      "name": "./pages/home.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ]
+}
