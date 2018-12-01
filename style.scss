@@ -1,0 +1,24 @@
+// sass variables 
+$primary:blue;
+$danger:red;
+$white:#fff;
+$raleway:"Raleway";
+$backgroundColor:#c00000;
+body{
+    padding: 0;
+    margin: 0;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    background-color:$backgroundColor; 
+    flex-direction: column;
+    align-items: center;
+    padding: 3em;
+
+  
+  .title{
+    font-family:$raleway;
+    color: $white;
+    }
+}
